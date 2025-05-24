@@ -1,6 +1,6 @@
 <a href="https://github.com/Manahil-Git"><img src="https://i.postimg.cc/d3cyQ5x2/img-2.png" width="100%" height="20%"></a>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manahil Khan</h1>
-<h3 align="center">A  Security Analyst & Blue Teamer from Pakistan</h3>
+<h3 align="center">A  Forensics Investigator & GRC Analyst from Pakistan</h3>
 
 - 🔭 I’m currently working on *Intrusion Detection Systems* & *Vulnerability Patch Research*.
 - 🌱 I’m currently learning *Assembly, SIEM, and Advanced Web Exploitation*.
