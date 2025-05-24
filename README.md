@@ -1,10 +1,10 @@
 <a href="https://github.com/Manahil-Git"><img src="https://i.postimg.cc/d3cyQ5x2/img-2.png" width="100%" height="20%"></a>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Manahil Khan</h1>
-<h3 align="center">A Cybersecurity Enthusiast & Red Teamer from Pakistan</h3>
+<h3 align="center">A  Security Analyst & Blue Teamer from Pakistan</h3>
 
 - 🔭 I’m currently working on *Intrusion Detection Systems* & *Vulnerability Patch Research*.
 - 🌱 I’m currently learning *Assembly, SIEM, and Advanced Web Exploitation*.
-- 👯 I’m looking to collaborate on *CTFs, Red Team Projects, and Research Papers*.
+- 👯 I’m looking to collaborate on *CTFs, Blue Team Projects, and Research Papers*.
 - 💬 Ask me about *Pentesting, GRC, SIEM tools, or Cyber Forensics*.
 - 📫 Reach me at *khanminahil397@gmail.com*
 - ⚡ Fun fact: *I break things to make them better — ethically of course!*
@@ -22,8 +22,11 @@
 
 <h3 align="left">TryHackMe Profile:</h3>
 <p align="left">
-  <a href="https://tryhackme.com/p/ManahilKhan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ManahilKhan.png" alt="TryHackMe Badge" /></a>
+  <a href="https://tryhackme.com/p/khanminahil397" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/khanminahil397.png" alt="TryHackMe Badge" />
+  </a>
 </p>
+
 
 ---
 
@@ -45,9 +48,6 @@
   <a href="https://www.kali.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40"/></a>
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/></a>
-  <a href="https://sourceforge.net/projects/metasploitable/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Metasploit_logo_and_wordmark.svg/512px-Metasploit_logo_and_wordmark.svg.png" alt="metasploitable" width="40" height="40"/>
-  </a>
   
 </p>
 
